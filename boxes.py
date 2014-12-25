@@ -19,6 +19,7 @@ class BoxesGame():
 
 		pygame.display.flip()
 
+//run the game
 bg = BoxesGame()
 while 1:
 	bg.update()
